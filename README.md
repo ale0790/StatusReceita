@@ -2,7 +2,7 @@
 
 Bando de dados utilizado: MariaBD 10.4
 
-Link para download da base: 
+Link para download da base: https://github.com/ale0790/StatusReceita/blob/main/src/main/resources/status_receita%2020210217%200848.zip
 
 Aplicação utilizando Spring Boot e OpenJDK 14.
 
